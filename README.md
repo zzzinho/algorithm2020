@@ -19,11 +19,11 @@
       [출처](https://github.com/29rithm/algospot/blob/master/README.md)
 
 ## 스터디 로그
-### [Week_1 2019.01.04]
+### [Week_1 2020.01.04]
 1. 비트마스크(16) 부분합(17) 챕터 완독 및 복습,정리
 2. 프로그래머스 (JAVA, C++, PYTHON) 지원 문제중 LEVEL1 단계 5문제 풀이
 
-### [Week_2-1 2019.01.06]
+### [Week_2-1 2020.01.06]
 1. 프로그래머스 스킬체크 1단계
 
    - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
